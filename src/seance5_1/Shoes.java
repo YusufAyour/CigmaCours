@@ -1,6 +1,6 @@
 package seance5_1;
 
 public class Shoes {
-	String url;
+	String Url = "Mysql";
 	int port;
 }
