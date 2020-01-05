@@ -1,0 +1,1 @@
+package seance_10_exception;
